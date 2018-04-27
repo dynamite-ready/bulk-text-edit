@@ -1,12 +1,13 @@
 {
   "name": "bulk-text-edit",
-  "description": "Tiny Sketch plugin to edit multiple text fields that share the same name, in bulk.", 
-  "version": "0.1.20",
+  "description": "Tiny Sketch plugin to edit multiple text fields that share the same name, in bulk.",
+  "version": "0.2.0",
   "engines": {
     "sketch": ">=3.0"
   },
-  "repository" : { "type" : "git",
-    "url" : "https://github.com/dynamite-ready/bulk-text-edit.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dynamite-ready/bulk-text-edit.git"
   },
   "skpm": {
     "name": "bulk-text-edit",
