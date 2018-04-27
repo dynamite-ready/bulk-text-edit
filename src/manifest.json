@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Bulk Text Edit",
+      "identifier": "bulk-text-edit-identifier",
+      "script": "./bulk-text-edit.js"
     }
   ],
   "menu": {
-    "title": "sketch-text-edit",
+    "title": "Bulk Text Edit",
     "items": [
-      "my-command-identifier"
+      "bulk-text-edit-identifier"
     ]
   }
 }

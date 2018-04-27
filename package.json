@@ -1,11 +1,14 @@
 {
-  "name": "sketch-text-edit",
+  "name": "bulk-text-edit",
   "version": "0.1.0",
   "engines": {
     "sketch": ">=3.0"
   },
+  "repository" : { "type" : "git",
+    "url" : "https://github.com/dynamite-ready/bulk-text-edit.git"
+  },
   "skpm": {
-    "name": "sketch-text-edit",
+    "name": "bulk-text-edit",
     "manifest": "src/manifest.json",
     "main": "plugin.sketchplugin",
     "assets": [
